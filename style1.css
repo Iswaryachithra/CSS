@@ -1,0 +1,27 @@
+
+ table{
+   height: 10%;
+   width: 100%;
+   text-align: center;
+   
+ }
+ .image{
+  height: 3px;
+  width: 3px;
+ }
+ .button1{
+  color: black;background-color: aqua;
+ }
+ .del2{
+  color: black;background-color: rgb(223, 30, 104);
+ }
+ i{
+  color: gold;
+ }
+.font{
+  color: gold;
+}
+/* .img1{
+  height:100px ;
+  width:100px ;
+} */
