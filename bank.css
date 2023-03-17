@@ -1,0 +1,141 @@
+body{
+    background-color:yellow;
+}
+
+
+.left{
+    float: left;
+}
+ul li{
+    display: inline;
+    padding: 5px;
+    margin-left: 30px;
+}
+.line{
+    text-decoration: underline;
+}
+.right{
+    float: right;
+    
+}
+
+li{
+    list-style-type: none;
+   display: inline; 
+   padding: 5px;
+   
+}
+/* .r1{
+    background-color: aqua;
+    height: 100px;
+    font-weight: 100px;
+} */
+.search{
+    border: 1px solid white;
+    height: 30px;
+    width: 100px;
+    border-radius: 30%;
+}
+.hs{
+    /* float: left; */
+    /* margin-right: 0px; */
+    position: absolute;
+    top:20px;
+    left: 10px;
+}
+.h1{
+    position: absolute;
+    top:60px;
+    left: 35px;
+}
+.div1{
+    float: left;   
+    width: 1200px;
+}
+.s1{
+float: left;
+/* margin-left: 30px;  */
+padding-left: 0px;   
+    
+}
+
+.div2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.c1{
+    font-size: 60px;
+    margin-bottom:  40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gf{
+    position: relative;
+    top: 50px;
+}
+.btn1{
+    height: 40px;
+    width: 180px;
+    border: 1px solid blue;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+}
+.img1{
+    float: left;
+}
+img{
+    margin-top: 150px;
+    height: 400px;
+    width: 550px;
+}
+.div3{
+    float: left;
+    margin-top: 120px;
+    margin-left:px;
+}
+.box{
+    width:300px;
+    height: 20px;
+    border-radius: 10px;
+    color: black;
+    /* border: 1px solid black; */
+    border: yellow;
+}
+.box1{
+    margin-top: 10px;
+    width:300px;
+    height: 50px;
+    border-radius: 20px;
+    border: yellow;
+}
+.box2{
+    margin-top: 10px;
+    width:300px;
+    height: 50px;
+    border-radius: 20px;
+    border: yellow;
+    /* border: 1px solid black; */
+}
+.ps{
+    text-decoration: underline;
+    float: left;
+}
+.ps1{
+    float: left;
+    bottom: 30px;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+.btn2{
+    height: 40px;
+    width: 140px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    background-color: rgb(233, 255, 70);
+    color: rgb(53, 102, 207);
+    margin-top: 50px;
+    position: relative;
+    right: 200px;
+
+}

@@ -1,0 +1,29 @@
+/* .nav1{
+    background-color: antiquewhite;
+    height: 40px;
+    width: 80%;
+} */
+a{
+    background-color: aqua;
+    color: black;
+    border: 1px solid ;
+    padding: 2px;
+    transition: all 0.28 ease-out;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    
+}
+a:focus{
+    background-color: brown;
+    color: aliceblue;
+}
+ul{
+    list-style-type: none;
+    
+}
+ul li{
+    display: inline;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(16, 65, 50);
+}
+.div1{
+    background-color: rgb(255, 249, 240);
+    height: 500px;
+    width: 400px;
+    margin: 50px;
+}
+ul li{
+    display: block;
+    padding-top: 10%;
+}

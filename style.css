@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(252, 238, 245);
+}
+
+.head-one{
+    text-align: center;
+    font-family: Times New Roman;
+    /* margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 200px; */
+}
+.head-two{
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+    
+}
+
+.div2{
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+.div1{
+    width: 500px;
+    height: 500px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+p{
+    text-align: center;
+}

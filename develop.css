@@ -1,0 +1,96 @@
+body{
+    background-color: white;
+}
+ul{
+    background-color: #f0f8ff;
+    list-style-type: none;
+    
+}
+ul li{
+    padding: 3px;
+    margin: center;
+    display: inline;
+    margin-left: 90px;    
+}
+.div1{
+    text-align: center;
+    margin-left: 30px;
+    /* margin-top: 10px; */
+    margin-bottom: 100px;
+    position: relative;
+    bottom: 350px;
+    color: white;
+}
+button{
+    background-color:orange;
+    color: white;
+    border: 1px solid orange;
+    height: 40px;
+    width: 200px;
+}
+.div2{
+    background-color: orangered;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    bottom: 400px;
+    left: 50px;
+}
+.div3{
+    background-color:lightskyblue;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 450px;
+    bottom: 718px;
+    /* float: leftt; */
+}
+.div4{
+    background-color:rgb(125, 202, 38);
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 850px;
+    bottom: 1037px;
+}
+.divt{
+    position: relative;
+    left: 60px;
+    top: 70px;
+    color: white;
+}
+.divt2{
+    position: relative;
+    left: 60px;
+    top: 70px;
+    color: white;
+}
+.divt3{
+    position: relative;
+    left: 60px;
+    top: 70px;
+    color: white;
+}
+.divp{ 
+    position: relative;
+    left: 70px;
+    height: 300px;
+    width: 300px;
+    bottom: 1000px;
+}
+.divp2{
+    position: relative;
+    left: 500px;
+    height: 300px;
+    width: 300px;
+    bottom: 1313px;
+}
+.divp3{
+    position: relative;
+    left: 900px;
+    bottom: 1630px;
+    height: 300px;
+    width: 300px;
+    /* bottom: 1313px; */
+
+}
